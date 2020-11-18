@@ -1,0 +1,19 @@
+{
+    "title": "Covid 2019 Data Analysis and Visualization Notebook",
+    "description": "Notebook for Covid 2019 Data Analysis and Visualization",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "category_label": [
+        "Notebook"
+    ],
+    "tag": [
+        "CSV"
+    ],
+    "de_catalog_id": "covid_2019_visualization_notebook",
+    "categories": [
+        "Covid"
+    ],
+    "git_url": "",
+    "git_commit": "",
+    "installTime": "3 minutes"
+}
