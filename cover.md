@@ -1,4 +1,6 @@
-# Covid 2019 Data Analysis Notebook
+# Covid-19 Data Analysis Notebook
+
+![](_images/covid-image-0.jpg)
 
 ## What is the notebook about?
 COVID-19 is the disease caused by a new coronavirus called SARS-CoV-2.  WHO first learned of this new virus on 31 December 2019, following a report of a cluster of cases of ‘viral pneumonia’ in Wuhan, People’s Republic of China. This notebook is an analysis on the numbers of infection, casualties and recoveries in the World, when it stood still because of Covid-19.
